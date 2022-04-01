@@ -1,4 +1,20 @@
-# Code Base for FaiRIR
+# FaiRIR : A suite of Fair Related Item Recommendation Alogorithms
+
+Code base for the paper titled, *FaiRIR: Mitigating Exposure Bias from Related Item Recommendations in Two-Sided Platforms* to appear at IEEE Transactions on Computational Social Systems 2022 (IEEE TCSS'22).
+
+If you are using this code for any research publication, please cite the following paper as the source of the code.
+
+Abhisek Dash, Abhijnan Chakraborty, Saptarshi Ghosh, Animesh Mukherjee and Krishna P. Gummadi. "FaiRIR: Mitigating Exposure Bias from Related Item Recommendations in Two-Sided Platforms”. To appear at IEEE Transactions on Computational Social Systems 2022 (IEEE TCSS'22).
+
+BibTex
+
+@article{dash2019fairir,<br/>
+  title={FaiRIR: Mitigating Exposure Bias from Related Item Recommendations in Two-Sided Platforms},<br/>
+  author={Dash, Abhisek and Chakraborty, Abhijnan and Ghosh, Saptarshi and Mukhejree, Animesh and Gummadi, Krishna P.},<br/>
+  journal={IEEE Transactions on Computational Social Systems},<br/>
+  year={2022},<br/>
+  publisher={IEEE}<br/>
+}
 
 ### URL to the datasets: 
 - MovieLens: https://grouplens.org/datasets/movielens/
