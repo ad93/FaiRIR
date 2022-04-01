@@ -54,3 +54,4 @@ BibTex
 - output: fair representations
 - To generate FaiRIR recommendations, please use the RIR.py with new input being the fair representations learnt above.
 
+Please send any questions you might have about the code and/or the algorithm to <dash.abhi93@iitkgp.ac.in>.
