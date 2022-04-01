@@ -8,7 +8,7 @@ Abhisek Dash, Abhijnan Chakraborty, Saptarshi Ghosh, Animesh Mukherjee and Krish
 
 BibTex
 
-@article{dash2019fairir,<br/>
+@article{dash2022fairir,<br/>
   title={FaiRIR: Mitigating Exposure Bias from Related Item Recommendations in Two-Sided Platforms},<br/>
   author={Dash, Abhisek and Chakraborty, Abhijnan and Ghosh, Saptarshi and Mukhejree, Animesh and Gummadi, Krishna P.},<br/>
   journal={IEEE Transactions on Computational Social Systems},<br/>
